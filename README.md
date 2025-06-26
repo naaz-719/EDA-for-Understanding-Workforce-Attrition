@@ -10,6 +10,9 @@ Using a combination of univariate and bivariate analysis techniques, the project
 
 The insights gained from this EDA can support HR teams and recruiters in identifying retention strategies, optimizing compensation structures, and targeting areas that need intervention.
 
+Dataset Source:
+IBM HR Analytics Employee Attrition Dataset — Available on Kaggle
+
 
 # Key Techniques:
 
